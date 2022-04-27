@@ -1,4 +1,5 @@
 optConfig:
   optOutStrategy: true
   disableRepoOverride: true
+  requireApproval: false
 action: issue
