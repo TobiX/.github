@@ -4,3 +4,5 @@ optConfig:
   disableRepoOverride: true
 action: issue
 requireApproval: false
+# Waiting for https://github.com/ossf/allstar/pull/423
+approvalCount: 0
